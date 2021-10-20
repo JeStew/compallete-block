@@ -2,6 +2,9 @@
     "name": "jestew/wordpress-importer",
     "description": "Quick test",
     "type": "wordpress-plugin",
+    "extra": {
+        "wordpress-install-dir": "web/wp-content/plugins"
+    },
     "require": {
       "composer/installers": "^1.0"
     },
