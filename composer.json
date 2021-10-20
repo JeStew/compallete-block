@@ -1,0 +1,15 @@
+{
+    "name": "jestew/wordpress-importer",
+    "description": "Quick test",
+    "type": "compallete-block-plugin",
+    "require": {
+      "composer/installers": "^1.0"
+    },
+    "license": "GPL-3.0+",
+    "authors": [
+      {
+        "name": "Jessica Stewart",
+        "email": "jestewart@redventures.com"
+      }
+    ]
+  }
