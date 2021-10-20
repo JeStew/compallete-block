@@ -1,7 +1,7 @@
 {
     "name": "jestew/wordpress-importer",
     "description": "Quick test",
-    "type": "compallete-block-plugin",
+    "type": "wordpress-plugin",
     "require": {
       "composer/installers": "^1.0"
     },
