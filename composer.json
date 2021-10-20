@@ -1,5 +1,5 @@
 {
-    "name": "jestew/wordpress-importer",
+    "name": "jestew/compallette-block",
     "description": "Quick test",
     "type": "wordpress-plugin",
     "extra": {
